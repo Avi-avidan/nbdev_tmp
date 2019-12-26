@@ -15,11 +15,11 @@
 
 This file will become your README and also the index of your documentation.
 
-## Install
+### Install
 
 `pip install nbdev_tmp`
 
-## How to use
+### say hi func
 
 Fill me in please! Don't forget code examples:
 <div class="codecell" markdown="1">
